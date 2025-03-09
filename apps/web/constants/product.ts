@@ -1,4 +1,4 @@
-import { BannerCardProps } from "@/components/showcase/BannerCard";
+import { BannerCardProps } from "@/components/block/BannerCard";
 
 export const bannerCardsList: BannerCardProps[] = [
   {
